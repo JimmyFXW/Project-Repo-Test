@@ -1,0 +1,27 @@
+parking members:
+
+username: bryanJ
+password: password
+cash: 200000
+
+username: kiara698
+password: lovechristies
+cash: 300000
+
+username: Kevin382
+password: 12345
+cash: 150000
+
+eMoney members:
+
+username: jamesBoeing778
+password: jamB007!
+email: jamesBoeing778@gmail.com
+
+username: Kboyle
+password: Hiya2*
+email: kboyle@gmail.com
+
+username: Ted7
+password: kayL4$
+email: ted7@gmail.com
